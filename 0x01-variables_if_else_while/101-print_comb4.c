@@ -16,7 +16,7 @@ if (c < i && i < k)
 {
 putchar(c);
 putchar(i);
-utchar(k);
+putchar(k);
 if (c != '7')
 {
 putchar(',');
