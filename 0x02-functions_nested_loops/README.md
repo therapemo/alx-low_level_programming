@@ -1,4 +1,6 @@
-Task 0 - prints _putchar, followed by a new line
+The following are functions and nested loop scripts in C
+
+Task 0 - prints _putchar, followed by a new line.
 Task 1 - prints the alphabet, in lowercase, followed by a new line.
 Task 2 - prints 10 times the alphabet, in lowercase, followed by a new line.
 Task 3 -  checks for lowercase character.
